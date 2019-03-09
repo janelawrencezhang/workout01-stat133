@@ -1,0 +1,6 @@
+---
+title: "stat133-workout1-Jane-Zhang"
+output: github_document
+arthor: "Jane Zhang
+date: 3/8/2019
+---
